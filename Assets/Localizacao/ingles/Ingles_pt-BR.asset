@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Ingles_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 440783737019d864fbd992e22ad58c59, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 27803025223680
+    m_Localized: Jogar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28056034029568
+    m_Localized: Creditos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28572935860224
+    m_Localized: sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29580931969024
+    m_Localized: voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34138211037184
+    m_Localized: Obrigado!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35265933553664
+    m_Localized: "Obrigado por baixar e apoiar meu pequeno projeto, este \xE9 meu
+      primeiro jogo publicado e estou diariamente melhorando para algum dia me tornar
+      um Game Designer.\r\n\r\nVeja mais dos meus projetos aqui:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39303764848640
+    m_Localized: Aperte Space Para pular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40407357534208
+    m_Localized: Droga, parece que estou sem gasolina, mas oque E isso? uma lanterna?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45473556672512
+    m_Localized: qUE SOM E ESSE? TENHO QUE ME ESCONDER AGORA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46133954031616
+    m_Localized: Mas que diabos E isso? Tenho que encher meu carro de gasolina e
+      ir embora daqui!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46947783225344
+    m_Localized: Parabens, voce conseguiu escapar do Corpo Seco!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48366925983744
+    m_Localized: 'Obrigado por jogar, me siga para ver mais projetos:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168902330167296
+    m_Localized: Tenho que ir embora daqui!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

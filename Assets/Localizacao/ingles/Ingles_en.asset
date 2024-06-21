@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Ingles_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 440783737019d864fbd992e22ad58c59, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 27803025223680
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28056034029568
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28572935860224
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29580931969024
+    m_Localized: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34138211037184
+    m_Localized: Thank You!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35265933553664
+    m_Localized: 'Thank you for downloading and supporting my little project, this
+      is my first published game and I am improving daily to one day become a Game
+      Designer.
+
+
+      See more of my projects here:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39303764848640
+    m_Localized: "Press Space to jump\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40407357534208
+    m_Localized: 'Damn, I feel like I''m out of gas, but what? a flashlight?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45473556672512
+    m_Localized: 'what sound is this? I HAVE TO HIDE NOW!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46133954031616
+    m_Localized: 'What the hell is this? I have to fill my car with gas and get out
+      of here!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46947783225344
+    m_Localized: "Congratulations, you managed to escape Dry Body! \r\n(This is a
+      very famous legend in Brazil)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48366925983744
+    m_Localized: 'Thanks for playing, follow me to see more projects:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168902330167296
+    m_Localized: "I have to get out of here!\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
